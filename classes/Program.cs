@@ -59,6 +59,31 @@ namespace classes
         {
             this.Modelo = modelo; // Acessando a propriedade privada dentro da classe
         }
+
+        internal class Program
+        {
+            static void Main(string[] args)
+            {
+                Carro meuCarro = new Carro();
+                
+                // Atribuindo valores às propriedades públicas e privadas
+                meuCarro.Marca = "Toyota";
+                meuCarro.Ano = 2020; // A propriedade Ano é pública, mas com uma validação interna
+                meuCarro.DefinirModelo("Corolla"); //Usando método para definir o modelo, pois é privado
+                
+                // Exibindo as informações do carro
+                meuCarro.ExibirInformacoes();
+                
+                // Caclulando e exibindo a idade do carro
+                int idadeCarro = meuCarro.CalcularIdade();
+                Console.WriteLine($"Idade do carro: {idadeCarro} anos.");
+
+                //Mantendo o console aberto
+                Console.ReadLine();
+
+
+            }
+        }
     
     }
 }
