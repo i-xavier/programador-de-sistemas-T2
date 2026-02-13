@@ -1,0 +1,11 @@
+C:\Users\igor.xsantos1\source\repos\calculadoraSimples\bin\Debug\calculadoraSimples.exe.config
+C:\Users\igor.xsantos1\source\repos\calculadoraSimples\bin\Debug\calculadoraSimples.exe
+C:\Users\igor.xsantos1\source\repos\calculadoraSimples\bin\Debug\calculadoraSimples.pdb
+C:\Users\igor.xsantos1\source\repos\calculadoraSimples\obj\Debug\calculadoraSimples.csproj.AssemblyReference.cache
+C:\Users\igor.xsantos1\source\repos\calculadoraSimples\obj\Debug\calculadoraSimples.frmCalculadoraSimples.resources
+C:\Users\igor.xsantos1\source\repos\calculadoraSimples\obj\Debug\calculadoraSimples.Properties.Resources.resources
+C:\Users\igor.xsantos1\source\repos\calculadoraSimples\obj\Debug\calculadoraSimples.csproj.GenerateResource.cache
+C:\Users\igor.xsantos1\source\repos\calculadoraSimples\obj\Debug\calculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\igor.xsantos1\source\repos\calculadoraSimples\obj\Debug\calculadoraSimples.exe
+C:\Users\igor.xsantos1\source\repos\calculadoraSimples\obj\Debug\calculadoraSimples.pdb
+C:\Users\igor.xsantos1\source\repos\calculadoraSimples\obj\Debug\calculadoraSimples.exe.config
