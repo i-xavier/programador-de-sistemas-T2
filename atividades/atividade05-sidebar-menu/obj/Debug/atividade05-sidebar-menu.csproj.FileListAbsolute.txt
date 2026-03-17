@@ -9,3 +9,14 @@ C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades
 C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\obj\Debug\atividade05-sidebar-menu.pdb
 C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\obj\Debug\atividade05-sidebar-menu.exe.config
 C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\obj\Debug\atividade05_sidebar_menu.lblMenu.resources
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\bin\Debug\atividade05-sidebar-menu.exe.config
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\bin\Debug\atividade05-sidebar-menu.exe
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\bin\Debug\atividade05-sidebar-menu.pdb
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\obj\Debug\atividade05-sidebar-menu.csproj.AssemblyReference.cache
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\obj\Debug\atividade05-sidebar-menu.exe.config
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\obj\Debug\atividade05_sidebar_menu.lblMenu.resources
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\obj\Debug\atividade05_sidebar_menu.Properties.Resources.resources
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\obj\Debug\atividade05-sidebar-menu.csproj.GenerateResource.cache
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\obj\Debug\atividade05-sidebar-menu.csproj.CoreCompileInputs.cache
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\obj\Debug\atividade05-sidebar-menu.exe
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\obj\Debug\atividade05-sidebar-menu.pdb

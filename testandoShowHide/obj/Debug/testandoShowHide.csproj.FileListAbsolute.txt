@@ -1,0 +1,12 @@
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\testandoShowHide\bin\Debug\testandoShowHide.exe.config
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\testandoShowHide\bin\Debug\testandoShowHide.exe
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\testandoShowHide\bin\Debug\testandoShowHide.pdb
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\testandoShowHide\obj\Debug\testandoShowHide.csproj.AssemblyReference.cache
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\testandoShowHide\obj\Debug\testandoShowHide.frmShowHide.resources
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\testandoShowHide\obj\Debug\testandoShowHide.Properties.Resources.resources
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\testandoShowHide\obj\Debug\testandoShowHide.csproj.GenerateResource.cache
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\testandoShowHide\obj\Debug\testandoShowHide.csproj.CoreCompileInputs.cache
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\testandoShowHide\obj\Debug\testandoShowHide.exe
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\testandoShowHide\obj\Debug\testandoShowHide.pdb
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\testandoShowHide\obj\Debug\testandoShowHide.exe.config
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\testandoShowHide\obj\Debug\testandoShowHide.frmHome.resources
