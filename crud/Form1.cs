@@ -85,10 +85,19 @@ namespace crud
                     MessageBoxIcon.Information
                     );
             }
-            catch
+            catch (MySqlException ex)
             {
-                
+                //Trata erros relacionados ao MySQL
+                MessageBox.Show("Erro " + ex.Number + " ocorreu: " + ex.Message,
+                                "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+            catch (Exception ex)
+            {
+                //Trata outros tipos de erro
+                MessageBox.Show("Ocorreu: " + ex.Message,
+                    "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
             finally
             {
                 //Garante que a conexão com o banco será fechda, mesmo se ocorrer erro
