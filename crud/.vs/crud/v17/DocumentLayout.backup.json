@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\igor.xsantos1\\source\\repos\\programador-de-sistemas-T2\\crud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B713EF4-9EDE-421A-837D-AFF3D008CFE0}|crud.csproj|c:\\users\\igor.xsantos1\\source\\repos\\programador-de-sistemas-t2\\crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B713EF4-9EDE-421A-837D-AFF3D008CFE0}|crud.csproj|C:\\Users\\igor.xsantos1\\source\\repos\\programador-de-sistemas-T2\\crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B713EF4-9EDE-421A-837D-AFF3D008CFE0}|crud.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B713EF4-9EDE-421A-837D-AFF3D008CFE0}|crud.csproj|C:\\Users\\igor.xsantos1\\source\\repos\\programador-de-sistemas-T2\\crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5B713EF4-9EDE-421A-837D-AFF3D008CFE0}|crud.csproj|c:\\users\\igor.xsantos1\\source\\repos\\programador-de-sistemas-t2\\crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5B713EF4-9EDE-421A-837D-AFF3D008CFE0}|crud.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -22,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\igor.xsantos1\\source\\repos\\programador-de-sistemas-T2\\crud\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\igor.xsantos1\\source\\repos\\programador-de-sistemas-T2\\crud\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAALAAAAAAAAAAAAAiwM0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T18:44:56.029Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -45,7 +32,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\igor.xsantos1\\source\\repos\\programador-de-sistemas-T2\\crud\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAwCUAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAqwCcBAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T18:21:43.444Z",
               "EditorCaption": ""
@@ -61,6 +48,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T17:48:32.227Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\igor.xsantos1\\source\\repos\\programador-de-sistemas-T2\\crud\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\igor.xsantos1\\source\\repos\\programador-de-sistemas-T2\\crud\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:44:56.029Z"
             }
           ]
         }
